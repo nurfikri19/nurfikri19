@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Nur Fikri**.\
+
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
